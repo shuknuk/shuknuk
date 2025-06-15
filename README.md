@@ -36,7 +36,7 @@ Currently leveling up in **data structures, concurrency, and backend development
 ## 🌐 Highlight Projects
 
 ### 🔴 [**BRHacks 2024**](https://github.com/shuknuk/brhacks24)  
-**→ Lead Developer** · Solo project · [Live site](https://brhacks.org)  
+**→ Lead Developer** · Solo project · [Live site](https://brhacks24.vercel.app/)  
 Built with `Next.js`, `TailwindCSS`, `Framer Motion`  
 > Designed and developed the full website for our second annual high school hackathon. Fully responsive, animated, and deployed on Vercel. ~100+ attendees used the site to register and access event info.
 
