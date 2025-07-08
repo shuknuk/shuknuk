@@ -1,10 +1,8 @@
 # 👋 What's up, I’m Kinshuk
 
-🎓 Incoming Computer Science Student @ Rutgers University (Class of 2029)  
+🎓 Incoming CS Student @ **Rutgers University** (Class of 2029)  
 💻 Developer | Designer | Full-stack Tinkerer  
 🎻 Violinist by day, JavaScript nerd by night  
-
----
 
 ## 🚀 About Me
 
@@ -12,16 +10,14 @@ I'm an 18-year-old programmer from New Jersey who loves building things that are
 
 Currently leveling up in **data structures, concurrency, and backend development** — and working on side projects that blend design and functionality.
 
----
-
 ## 🛠️ Tech Stack
 
 **Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
 
 **Frameworks & Tools:**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) 
@@ -88,7 +84,10 @@ Command-line tool to search Snap, Flatpak, and Apt simultaneously
 
 ## 🧪 Currently Working On
 
-- **🧵 Concurrency Visualizer**  
+-   **✨ Intelligent Resume Analyzer** An AI agent that analyzes resumes, compares them to job descriptions, and uses live web data to provide deeply tailored feedback.
+__Tech__: `Next.js (TypeScript)` `Python (FastAPI)` `Gemini API` `LangChain` `Docker` `Vercel`
+
+- **Deprecated: 🧵 Concurrency Visualizer** 
 Debugging tool to trace thread execution and visualize race conditions  
 Learning `multithreading`, `logging`, and UI timelines
 
@@ -102,8 +101,7 @@ Portfolio coming soon: `shuknuk.dev`
 
 ## 📫 Reach Out
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kinshuk-goel-7137a1281/)  
-- 📬 kg467@outlook.com
-
+- 📬 kinshukgoel2@gmail.com
 ---
 
-> _"Stay curious. Break stuff. Build better."_  
+> _"Make stuff. Break it. Build it again."_  
