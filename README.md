@@ -2,7 +2,6 @@
 
 🎓 Incoming CS Student @ **Rutgers University** (Class of 2029)  
 💻 Developer | Designer | Full-stack Tinkerer  
-🎻 Violinist by day, JavaScript nerd by night  
 🌐 Portfolio: [https://kinshuk-goel.vercel.app/](https://kinshuk-goel.vercel.app/)
 
 ## 🚀 About Me
