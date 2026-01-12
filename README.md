@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm an 18-year-old programmer from New Jersey who loves building things that are clean, fast, and actually *useful*. Whether it's designing websites for hackathons, contributing to open-source tools, or crafting visuals that actually don't suck, I like to explore all sides of tech.
+I'm an 18-year-old programmer from New Jersey who loves building things that are clean, fast, and actually *useful*. Whether it's designing websites for hackathons, contributing to open-source tools, or crafting new solutions from scratch, I enjoy the creative process and learning from it.
 
 Currently leveling up in **data structures, concurrency, and backend development** — and working on side projects that blend design and functionality.
 
@@ -33,6 +33,14 @@ Currently leveling up in **data structures, concurrency, and backend development
 ---
 
 ## 🌐 Highlight Projects
+
+### 🟢 [**zentreetabs**](https://github.com/shuknuk/zentreetabs)
+**→ Creator & Lead Developer** · [Repo](https://github.com/shuknuk/zentreetabs)  
+A modern, intuitive web app for managing browser tabs with speed and clarity. Zentreetabs helps you organize, re-open, and declutter your tab workspace.  
+Built with `Next.js`, `TypeScript`, `TailwindCSS`.  
+> Designed for clean UX and productivity. Pull requests, feedback, and issues are welcome!
+
+---
 
 ### ✨ [**Intelligent Resume Analyzer**](https://github.com/shuknuk/resume-analyzer-frontend)
 **→ Lead Developer** · Solo project · [Live site](https://resume-analyzer-frontend-seven.vercel.app/)  
