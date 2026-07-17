@@ -3,18 +3,19 @@
 <p align="center">
 <img alt="GitHub stats" src="https://pixel-profile-shuknuk.vercel.app/api/github-stats?username=shuknuk&theme=fuji&color=%23000000">
 </p>
-<img src="https://api.iconify.design/pixelarticons:book-open.svg?color=%2338bdf8&height=16" width="15" height="15"/> CS + Data Science @ **Rutgers University–New Brunswick** (Class of 2029)
+
+<p align="center">
+<img src="https://api.iconify.design/pixelarticons:book-open.svg?color=%2338bdf8&height=16" width="15" height="15"/> CS + Data Science @ <strong>Rutgers University–New Brunswick</strong> (Class of 2029)
+<br/>
 <img src="https://api.iconify.design/pixelarticons:terminal.svg?color=%2338bdf8&height=16" width="15" height="15"/> Full-Stack Software Engineer | Applied AI
-
-
+</p>
 
 <p align="center">
 <a href="https://kinshuk-goel.vercel.app/"><img src="https://api.iconify.design/pixelarticons:globe.svg?color=%2338bdf8&height=16" width="15" height="15" align="center"/> Portfolio</a> &nbsp;·&nbsp;
-<a href="https://github.com/shuknuk"><img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGZpbGw9IiM5Y2EzYWYiIGlkPSJHaXRodWIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI0IDI0Ij48cG9seWdvbiBwb2ludHM9IjIzIDkgMjMgMTUgMjIgMTUgMjIgMTcgMjEgMTcgMjEgMTkgMjAgMTkgMjAgMjAgMTkgMjAgMTkgMjEgMTggMjEgMTggMjIgMTYgMjIgMTYgMjMgMTUgMjMgMTUgMTggMTQgMTggMTQgMTcgMTUgMTcgMTUgMTYgMTcgMTYgMTcgMTUgMTggMTUgMTggMTQgMTkgMTQgMTkgOSAxOCA5IDE4IDYgMTYgNiAxNiA3IDE1IDcgMTUgOCAxNCA4IDE0IDcgMTAgNyAxMCA4IDkgOCA5IDcgOCA3IDggNiA2IDYgNiA5IDUgOSA1IDE0IDYgMTQgNiAxNSA3IDE1IDcgMTYgOSAxNiA5IDE4IDcgMTggNyAxNyA2IDE3IDYgMTYgNCAxNiA0IDE3IDUgMTcgNSAxOSA2IDE5IDYgMjAgOSAyMCA5IDIzIDggMjMgOCAyMiA2IDIyIDYgMjEgNSAyMSA1IDIwIDQgMjAgNCAxOSAzIDE5IDMgMTcgMiAxNyAyIDE1IDEgMTUgMSA5IDIgOSAyIDcgMyA3IDMgNSA0IDUgNCA0IDUgNCA1IDMgNyAzIDcgMiA5IDIgOSAxIDE1IDEgMTUgMiAxNyAyIDE3IDMgMTkgMyAxOSA0IDIwIDQgMjAgNSAyMSA1IDIxIDcgMjIgNyAyMiA5IDIzIDkiLz48L3N2Zz4=" width="15" height="15" align="center"/> GitHub</a> &nbsp;·&nbsp;
-<a href="https://linkedin.com/in/kinshukgoel2"><img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGZpbGw9IiMwYTY2YzIiIGlkPSJMaW5rZWRpbiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Im0yMiwydi0xSDJ2MWgtMXYyMGgxdjFoMjB2LTFoMVYyaC0xWm0tOSwxMHY4aC0zdi0xMWgzdjFoMXYtMWg0djFoMXYxMGgtM3YtOGgtM1ptLTktNHYtM2gzdjNoLTNabTMsMXYxMWgtM3YtMTFoM1oiLz48L3N2Zz4=" width="15" height="15" align="center"/> LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://github.com/shuknuk"><img src="https://raw.githubusercontent.com/shuknuk/shuknuk/main/assets/github.svg" width="15" height="15" align="center"/> GitHub</a> &nbsp;·&nbsp;
+<a href="https://linkedin.com/in/kinshukgoel2"><img src="https://raw.githubusercontent.com/shuknuk/shuknuk/main/assets/linkedin.svg" width="15" height="15" align="center"/> LinkedIn</a> &nbsp;·&nbsp;
 <a href="mailto:kinshukgoel2@gmail.com"><img src="https://api.iconify.design/pixelarticons:mail.svg?color=%2338bdf8&height=16" width="15" height="15" align="center"/> Email</a>
 </p>
-
 
 ## <img src="https://api.iconify.design/pixelarticons:sparkles.svg?color=%2338bdf8&height=20" width="18" height="18" align="center"/> About Me
 
