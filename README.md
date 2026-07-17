@@ -1,7 +1,12 @@
 # What's up, I'm Kinshuk
 
+<p align="center">
+<img alt="GitHub stats" src="https://pixel-profile-shuknuk.vercel.app/api/github-stats?username=shuknuk&theme=fuji&color=%23000000">
+</p>
 <img src="https://api.iconify.design/pixelarticons:book-open.svg?color=%2338bdf8&height=16" width="15" height="15"/> CS + Data Science @ **Rutgers University–New Brunswick** (Class of 2029)
 <img src="https://api.iconify.design/pixelarticons:terminal.svg?color=%2338bdf8&height=16" width="15" height="15"/> Full-Stack Software Engineer | Applied AI
+
+
 
 <p align="center">
 <a href="https://kinshuk-goel.vercel.app/"><img src="https://api.iconify.design/pixelarticons:globe.svg?color=%2338bdf8&height=16" width="15" height="15" align="center"/> Portfolio</a> &nbsp;·&nbsp;
@@ -10,15 +15,16 @@
 <a href="mailto:kinshukgoel2@gmail.com"><img src="https://api.iconify.design/pixelarticons:mail.svg?color=%2338bdf8&height=16" width="15" height="15" align="center"/> Email</a>
 </p>
 
+
 ## <img src="https://api.iconify.design/pixelarticons:sparkles.svg?color=%2338bdf8&height=20" width="18" height="18" align="center"/> About Me
 
-Full-stack engineer building AI-native products · Currently shipping KareBud (an AI health platform) · Research of retrieval systems at Rutgers' HPDA Lab 
+Full-stack engineer building AI-native products. Currently shipping KareBud (an AI health platform) and researching retrieval systems at Rutgers' HPDA Lab.
 
 **Right now:**
-- <img src="https://api.iconify.design/pixelarticons:heart.svg?color=%23f87171&height=16" width="16" height="16"/> Building **[KareBud](https://karebud.com)**, a personalized health intelligence platform · Next.js, FastAPI, Supabase, multi-agent prompt pipeline
+- <img src="https://api.iconify.design/pixelarticons:heart.svg?color=%23f87171&height=16" width="16" height="16"/> Building **[KareBud](https://karebud.com)**, a personalized health intelligence platform — Next.js, FastAPI, Supabase, multi-agent prompt pipeline
 - <img src="https://api.iconify.design/pixelarticons:test-tube.svg?color=%2334d399&height=16" width="16" height="16"/> Researching adaptive query routing & embedding transformations for retrieval (MS MARCO / TREC DL 2019) in Rutgers' HPDA Lab, under Prof. Hang Liu
 - <img src="https://api.iconify.design/pixelarticons:briefcase.svg?color=%23a78bfa&height=16" width="16" height="16"/> Backend Engineer @ Hack4Impact · SWE Fellow @ Blueprint · Frontend Mentee @ RUMAD Incubator
-- <img src="https://api.iconify.design/pixelarticons:teach.svg?color=%23fbbf24&height=16" width="16" height="16"/> Youth Coding Instructor @ iCode Franchise · Formely Technical Lead for BRHacks (2023–2024), a 100+ attendee student hackathon
+- <img src="https://api.iconify.design/pixelarticons:teach.svg?color=%23fbbf24&height=16" width="16" height="16"/> Youth Coding Instructor @ iCode Bridgewater — and formerly Technical Lead for BRHacks (2023–2024), a 100+ attendee student hackathon
 
 ## <img src="https://api.iconify.design/pixelarticons:settings-cog.svg?color=%2338bdf8&height=20" width="18" height="18" align="center"/> Tech Stack
 
