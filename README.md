@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-<img src="https://api.iconify.design/pixelarticons:book-open.svg?color=%2338bdf8&height=16" width="15" height="15"/> CS + Data Science @ <strong>Rutgers University–New Brunswick</strong> (Class of 2029)
+<img src="https://api.iconify.design/pixelarticons:book-open.svg?color=%2338bdf8&height=16" width="15" height="15"/> CS @ <strong>Rutgers University–New Brunswick</strong> (Class of 2029)
 <br/>
-<img src="https://api.iconify.design/pixelarticons:terminal.svg?color=%2338bdf8&height=16" width="15" height="15"/> Full-Stack Software Engineer | Applied AI
+<img src="https://api.iconify.design/pixelarticons:terminal.svg?color=%2338bdf8&height=16" width="15" height="15"/> Full-Stack Software Engineer | Applied AI & Retrieval Systems
 </p>
 
 <p align="center">
@@ -19,22 +19,24 @@
 
 ## <img src="https://api.iconify.design/pixelarticons:sparkles.svg?color=%2338bdf8&height=20" width="18" height="18" align="center"/> About Me
 
-Full-stack engineer building AI-native products. Currently shipping KareBud (an AI health platform) and researching retrieval systems at Rutgers' HPDA Lab.
+Full-stack engineer building AI-native products & retrieval systems. Currently shipping KareBud (an AI health platform) and researching dense-retrieval embedding refinement at Rutgers' HPDA Lab.
 
 **Right now:**
 - <img src="https://api.iconify.design/pixelarticons:heart.svg?color=%23f87171&height=16" width="16" height="16"/> Building **[KareBud](https://karebud.com)**, a personalized health intelligence platform · Next.js, FastAPI, Supabase, multi-agent prompt pipeline
-- <img src="https://api.iconify.design/pixelarticons:test-tube.svg?color=%2334d399&height=16" width="16" height="16"/> Researching adaptive query routing & embedding transformations for retrieval (MS MARCO / TREC DL 2019) in Rutgers' HPDA Lab, under Prof. Hang Liu
+- <img src="https://api.iconify.design/pixelarticons:test-tube.svg?color=%2334d399&height=16" width="16" height="16"/> Researching **Query Lift** (lightweight dense-retrieval refinement & embedding transformations) for MS MARCO / TREC DL at Rutgers' HPDA Lab, under Prof. Hang Liu
 - <img src="https://api.iconify.design/pixelarticons:briefcase.svg?color=%23a78bfa&height=16" width="16" height="16"/> Backend Engineer @ Hack4Impact · SWE Fellow @ Blueprint · Frontend Mentee @ RUMAD Incubator
-- <img src="https://api.iconify.design/pixelarticons:teach.svg?color=%23fbbf24&height=16" width="16" height="16"/> Youth Coding Instructor @ iCode Bridgewater · Formerly Technical Lead for BRHacks (2023–2024), a 100+ attendee student hackathon
+- <img src="https://api.iconify.design/pixelarticons:teach.svg?color=%23fbbf24&height=16" width="16" height="16"/> Youth Coding Instructor @ iCode Bridgewater · Formerly Technical Lead for BRHacks (2022–2024), a 100+ attendee student hackathon
 
 ## <img src="https://api.iconify.design/pixelarticons:settings-cog.svg?color=%2338bdf8&height=20" width="18" height="18" align="center"/> Tech Stack
 
 **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 
-**AI / Backend:** ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+**AI / Machine Learning:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=flat&logo=langchain&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -53,16 +55,30 @@ Full-stack engineer building AI-native products. Currently shipping KareBud (an 
 ## <img src="https://api.iconify.design/pixelarticons:globe.svg?color=%2338bdf8&height=20" width="18" height="18" align="center"/> Highlight Projects
 
 ### <img src="https://api.iconify.design/pixelarticons:heart.svg?color=%23f87171&height=18" width="16" height="16"/> [**KareBud**](https://karebud.com)
-**→ Founder & Lead Developer** · Solo, in production
+**→ Co-Founder & Co-Lead Developer** · Solo, in production
 A "Health Intelligence OS" spanning nutrition, movement, restoration, lifestyle, and behavior. Voice journaling (Whisper), a Critic/Designer/Implementer multi-agent prompt pipeline, and a companion mobile app.
 Built with `Next.js`, `FastAPI`, `Supabase`, `OpenAI Whisper`, `React Native (Expo)` · deployed on `Vercel` + `Google Cloud Run`
 
 ---
 
-### <img src="https://api.iconify.design/pixelarticons:test-tube.svg?color=%2334d399&height=18" width="16" height="16"/> AdaQP / QueryLift *(Rutgers HPDA Lab)*
+### <img src="https://api.iconify.design/pixelarticons:document.svg?color=%2338bdf8&height=18" width="16" height="16"/> [**AI Resume Analyzer**](https://github.com/shuknuk)
+**→ Creator & Developer** · Solo
+An AI application combining resume details with live target company web research via Tavily to produce personalized feedback and scoring.
+Built with `Next.js`, `FastAPI`, `LangChain`, `Gemini API`, `Docker` · deployed on `Google Cloud Run`
+
+---
+
+### <img src="https://api.iconify.design/pixelarticons:test-tube.svg?color=%2334d399&height=18" width="16" height="16"/> Query Lift *(Rutgers HPDA Lab)*
 **→ Undergraduate Researcher** under PhD student Sirjana Bhatta, advised by Prof. Hang Liu
-Reducing LLM dependency in query expansion for retrieval, benchmarked on TREC DL 2019 and MS MARCO. Novelty assessment, NDCG@10 benchmarking, and adaptive routing between lightweight and LLM-based expansion.
+A lightweight dense-retrieval embedding-refinement pipeline using PyTorch, Contriever, FAISS, and CUDA. Evaluated low-rank models on 8.84M MS MARCO documents, increasing TREC DL19 NDCG@10 from 0.6199 to 0.6504 with ~0.3 ms overhead.
 *(Private research repo)*
+
+---
+
+### <img src="https://api.iconify.design/pixelarticons:tree.svg?color=%2334d399&height=18" width="16" height="16"/> [**ZenTree Tabs**](https://github.com/shuknuk/zentreetabs)
+**→ Creator & Lead Developer**
+A privacy-first Chrome extension with vertical tree tabs and on-device semantic tab grouping (~50 ms inference per tab via MiniLM-L6-v2, Transformers.js, ONNX, and WASM).
+Built with `Next.js`, `TypeScript`, `TailwindCSS`, `ONNX Runtime Web`, `Transformers.js`
 
 ---
 
@@ -86,17 +102,10 @@ Built with `Expo`, `React Native`, `TypeScript`, `Supabase`, `Express.js`
 
 ---
 
-### <img src="https://api.iconify.design/pixelarticons:tree.svg?color=%2334d399&height=18" width="16" height="16"/> [**ZenTree Tabs**](https://github.com/shuknuk/zentreetabs)
-**→ Creator & Lead Developer**
-A privacy-first Chrome extension with vertical tree tabs and on-device semantic tab grouping (MiniLM-L6-v2 via Transformers.js/ONNX/WASM).
-Built with `Next.js`, `TypeScript`, `TailwindCSS`, `ONNX Runtime Web`
-
----
-
 ## <img src="https://api.iconify.design/pixelarticons:target.svg?color=%2338bdf8&height=20" width="18" height="18" align="center"/> Currently Working On
 
 - <img src="https://api.iconify.design/pixelarticons:chart.svg?color=%2338bdf8&height=16" width="16" height="16"/> Growing KareBud toward launch · cinematic ad package, mobile app polish
-- <img src="https://api.iconify.design/pixelarticons:search.svg?color=%2338bdf8&height=16" width="16" height="16"/> AdaQP benchmarking and writeup for the HPDA Lab
+- <img src="https://api.iconify.design/pixelarticons:search.svg?color=%2338bdf8&height=16" width="16" height="16"/> Query Lift benchmarking and writeup for the HPDA Lab
 - <img src="https://api.iconify.design/pixelarticons:briefcase.svg?color=%2338bdf8&height=16" width="16" height="16"/> Summer 2027 SWE/AI internship search
 
 ---
