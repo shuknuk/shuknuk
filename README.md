@@ -70,7 +70,7 @@ Built with `Next.js`, `FastAPI`, `LangChain`, `Gemini API`, `Docker` · deployed
 
 ### <img src="https://api.iconify.design/pixelarticons:test-tube.svg?color=%2334d399&height=18" width="16" height="16"/> Query Lift *(Rutgers HPDA Lab)*
 **→ Undergraduate Researcher** under PhD student Sirjana Bhatta, advised by Prof. Hang Liu
-A lightweight dense-retrieval embedding-refinement pipeline using PyTorch, Contriever, FAISS, and CUDA. Evaluated low-rank models on 8.84M MS MARCO documents, increasing TREC DL19 NDCG@10 from 0.6199 to 0.6504 with ~0.3 ms overhead.
+Contributing experiments, evaluation, and system extensions to a lightweight dense-retrieval embedding-refinement project using PyTorch, Contriever, FAISS, and CUDA. Evaluated low-rank models on 8.84M MS MARCO documents, measuring TREC DL19 NDCG@10 of 0.6504 versus a 0.6199 baseline with ~0.3 ms transformation overhead.
 *(Private research repo)*
 
 ---
