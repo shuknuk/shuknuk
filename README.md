@@ -23,7 +23,7 @@ Full-stack engineer building AI-native products & retrieval systems. Currently s
 
 **Right now:**
 - <img src="https://api.iconify.design/pixelarticons:heart.svg?color=%23f87171&height=16" width="16" height="16"/> Building **[KareBud](https://karebud.com)**, a personalized health intelligence platform · Next.js, FastAPI, Supabase, multi-agent prompt pipeline
-- <img src="https://api.iconify.design/pixelarticons:test-tube.svg?color=%2334d399&height=16" width="16" height="16"/> Researching **Query Lift** (lightweight dense-retrieval refinement & embedding transformations) for MS MARCO / TREC DL at Rutgers' HPDA Lab, under Prof. Hang Liu
+- <img src="https://api.iconify.design/pixelarticons:test-tube.svg?color=%2334d399&height=16" width="16" height="16"/> Extending and evaluating **Query Lift** under PhD researcher Sirjana Bhatta at Rutgers' HPDA Lab: BGE/ColBERT experiments, paired evaluation, latency, and multi-query analysis
 - <img src="https://api.iconify.design/pixelarticons:briefcase.svg?color=%23a78bfa&height=16" width="16" height="16"/> Backend Engineer @ Hack4Impact · SWE Fellow @ Blueprint · Frontend Mentee @ RUMAD Incubator
 - <img src="https://api.iconify.design/pixelarticons:teach.svg?color=%23fbbf24&height=16" width="16" height="16"/> Youth Coding Instructor @ iCode Bridgewater · Formerly Technical Lead for BRHacks (2022–2024), a 100+ attendee student hackathon
 
